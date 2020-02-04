@@ -7,3 +7,6 @@ git config --global user.email "sharmabhaskar13@gmail.com"
 git pull origin master
 mkdir modelsData
 mv ../gensim/modelsData .
+
+tmux new-session -d -s "juyp"
+tmux send -t juyp "jupyter notebook" ENTER
