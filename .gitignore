@@ -211,4 +211,3 @@ Pipfile.lock
 *.mp4
 db_folder
 .idea/
-.ipynb_checkpoints
