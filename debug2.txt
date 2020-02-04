@@ -1,0 +1,103 @@
+Starting
+using custom dict
+Wiki loaded
+2020-01-29 15:15:31.317150
+1:27:39.594141
+tagged docs prepared
+2020-01-29 15:15:31.317268
+0:00:00.000093
+build vocab start
+Doc2Vec(dbow+w,d500,n5,w20,mc20,s0.001,t63)
+Doc2Vec(dm/m,d500,n5,w20,mc20,s0.001,t63)
+build vocab end, training start
+2020-01-29 16:40:32.374346
+1:25:01.057097
+Training for DBOW
+Epoch #0 start
+2020-01-29 16:40:32.375205
+Epoch #0 end
+3:16:42.627218
+Epoch #1 start
+2020-01-29 19:57:15.002445
+Epoch #1 end
+3:14:05.817049
+Epoch #2 start
+2020-01-29 23:11:20.819511
+Epoch #2 end
+3:03:26.300780
+Epoch #3 start
+2020-01-30 02:14:47.120311
+Epoch #3 end
+3:06:09.129036
+Epoch #4 start
+2020-01-30 05:20:56.249368
+Epoch #4 end
+3:07:31.954696
+Epoch #5 start
+2020-01-30 08:28:28.204081
+Epoch #5 end
+3:06:52.322568
+Epoch #6 start
+2020-01-30 11:35:20.526665
+Epoch #6 end
+3:07:44.727717
+Epoch #7 start
+2020-01-30 14:43:05.254400
+Epoch #7 end
+3:09:36.362660
+Epoch #8 start
+2020-01-30 17:52:41.617078
+Epoch #8 end
+3:11:22.627601
+Epoch #9 start
+2020-01-30 21:04:04.244705
+Epoch #9 end
+3:09:15.188026
+Training end for DBOW
+Training for DM
+Epoch #0 start
+2020-01-31 00:13:19.433400
+Epoch #0 end
+1:28:37.064159
+Epoch #1 start
+2020-01-31 01:41:56.497580
+Epoch #1 end
+1:28:51.807987
+Epoch #2 start
+2020-01-31 03:10:48.305585
+Epoch #2 end
+1:35:10.615989
+Epoch #3 start
+2020-01-31 04:45:58.921589
+Epoch #3 end
+1:34:56.454060
+Epoch #4 start
+2020-01-31 06:20:55.375665
+Epoch #4 end
+1:34:57.551320
+Epoch #5 start
+2020-01-31 07:55:52.927008
+Epoch #5 end
+1:35:18.598438
+Epoch #6 start
+2020-01-31 09:31:11.525471
+Epoch #6 end
+1:35:02.416142
+Epoch #7 start
+2020-01-31 11:06:13.941631
+Epoch #7 end
+1:35:10.212366
+Epoch #8 start
+2020-01-31 12:41:24.154014
+Epoch #8 end
+1:34:16.568596
+Epoch #9 start
+2020-01-31 14:15:40.722648
+Epoch #9 end
+1:35:23.875638
+Training end for DM
+2020-01-31 15:51:04.598550
+1 day, 23:10:32.224183
+training end
+[('Intercalation (timekeeping)', 0.5847078561782837), ('Lunar calendar', 0.5714114308357239), ('Lunisolar calendar', 0.5437363386154175), ('Julian calendar', 0.5402989387512207), ('Revised Julian calendar', 0.5397863388061523), ('List of calendars', 0.5253920555114746), ('Solar calendar', 0.5216913223266602), ('Calendar', 0.5093788504600525), ("New Year's Day", 0.5084538459777832), ('Lunar New Year', 0.5004952549934387), ('New moon', 0.49654680490493774), ('Month', 0.4900398850440979), ('Calendar year', 0.48649197816848755), ('Epoch', 0.4793442487716675), ('Quarter days', 0.4790419936180115), ('Coptic calendar', 0.4779942035675049), ('International Fixed Calendar', 0.47592973709106445), ('South and Southeast Asian solar New Year', 0.4743734896183014), ('Moveable feast', 0.47315093874931335), ('Assamese Calendar', 0.4723339080810547)]
+[("New Year's Day", 0.6676315069198608), ('Lunar New Year', 0.580530047416687), ('Iranian calendars', 0.5664509534835815), ('Buddhist calendar', 0.5510934591293335), ('Japanese calendar', 0.5462989807128906), ('Zoroastrian calendar', 0.546068012714386), ('Hebrew calendar', 0.5424123406410217), ('Sinhalese New Year', 0.541687548160553), ('Islamic calendar', 0.539506196975708), ('Calendar', 0.5387803316116333), ('Coptic calendar', 0.5335433483123779), ('Calendar era', 0.5331864953041077), ('Tamil calendar', 0.5331333875656128), ('Roman calendar', 0.5325138568878174), ('Week', 0.5320659875869751), ('Julian calendar', 0.5299152135848999), ('Easter', 0.5282344818115234), ('Vishu', 0.5211697816848755), ('March equinox', 0.5209291577339172), ('Ritu (Indian season)', 0.5194965600967407)]

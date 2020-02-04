@@ -1,0 +1,17 @@
+Starting
+using custom dict
+Wiki loaded
+2020-01-29 01:10:52.337851
+2:07:14.139901
+tagged docs prepared
+2020-01-29 01:10:52.337937
+0:00:00.000069
+build vocab start
+Doc2Vec(dbow+w,d1000,n5,w20,mc20,s0.001,t15)
+Doc2Vec(dm/m,d1000,n5,w20,mc20,s0.001,t15)
+build vocab end, training start
+2020-01-29 03:06:14.974586
+1:55:22.636710
+Training for DBOW
+Epoch #0 start
+2020-01-29 03:06:14.980500
